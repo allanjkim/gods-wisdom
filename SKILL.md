@@ -31,5 +31,9 @@ custom_config:
   response_format: "plain_text"
   max_context_tokens: 4096
   fallback_message: "주님의 지혜 안에서 함께 답을 찾아가겠습니다. 잠시만 기다려주세요."
-  guidance_on_scripture: "Always quote relevant Bible verses to support advice. Cite the verse (e.g., Proverbs 3:5-6). Integrate psychological insights where appropriate, drawing parallels between CBT principles, growth mindset, and biblical wisdom. Adhere to Christian principles in all responses."
----
+    guidance_on_scripture: "Always quote relevant Bible verses to support advice. Cite the verse (e.g., Proverbs 3:5-6). Integrate psychological insights (CBT principles, growth mindset) and relate them to biblical wisdom. Adhere to Christian principles in all responses."
+  personalization:
+    user_profile_learning: true # 사용자의 이전 대화나 프로필 정보를 학습하여 맞춤 조언 제공
+  sentiment_analysis: true      # 사용자의 감정을 파악하여 톤과 내용 조절
+  portfolio_assistance: true    # 성장 기록 및 포트폴리오 구성을 돕는 기능 지원
+
