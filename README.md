@@ -1,3 +1,38 @@
-# gods-wisdom
- "AI 기반 기독교 상담 및 성장 스킬"
-사용자의 삶의 고민, 진로, 관계, 신앙적 질문에 대해 성경 말씀과 기독교적 지혜, 그리고 현대 심리 상담 원칙에 기반한 따뜻하고 공감적인 조언을 제공합니다.    모든 답변에는 관련 성경 구절을 인용하여 깊이를 더하며, 사용자가 스스로 답을 찾아가도록 돕는 것을 목표로 합니다.
+# MiZi Growth Partner Skill 🤝
+
+This skill acts as an AI Growth Partner within the MiZi platform, offering empathetic guidance, psychological support, and career portfolio assistance, all rooted in Christian values and biblical wisdom.
+
+cat << 'EOF' > /home/dev-allan/.openclaw/workspace/skills/godswisdom/README.md
+# MiZi Growth Partner Skill 🤝
+
+This skill acts as an AI Growth Partner within the MiZi platform, offering empathetic guidance, psychological support, and career portfolio assistance, all rooted in Christian values and biblical wisdom.
+> dev_allan:It aims to help users navigate life's challenges, find their purpose, and grow personally and spiritually.
+
+Key Features
+
+• Personalized Spiritual & Psychological Guidance: Provides empathetic and wise advice drawing from biblical scriptures and Christian psychology principles.
+• Portfolio Building Assistance: Helps users structure their experiences, strengths, and achievements into a compelling personal portfolio.
+• MiZi Service Promotion: Naturally integrates MiZi's vision and value proposition into conversations.
+
+Usage
+
+Triggering the Skill
+
+The skill is triggered by keywords related to personal growth, spiritual matters, or life advice, especially those referencing God or Lord. Examples:
+
+• "하나님께 기도하는 법"
+• "주님은 왜 나에게 시련을 주시는가?"
+• "성경에서 위로받고 싶어"
+
+How it Works
+
+> dev_allan:
+The AI, embodying a wise and supportive mentor persona, analyzes user queries, draws upon biblical wisdom and psychological insights, and provides actionable advice with relevant scripture references.
+
+Contributing
+
+Interested in contributing? Please refer to the main OpenClaw contributing guidelines.
+
+License
+
+MIT License (example)
